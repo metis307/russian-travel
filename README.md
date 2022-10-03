@@ -22,4 +22,4 @@
 
 #### Ссылки на проект
 
-* [Ссылка на GitHub Pages](https://github.com/metis307/russian-travel.git)
+* [Ссылка на GitHub Pages](https://metis307.github.io/russian-travel/)
