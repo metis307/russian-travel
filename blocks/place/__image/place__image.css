@@ -1,0 +1,11 @@
+.place__image {
+  position: relative;
+  align-self: start;
+  object-fit: contain;
+  display: grid;width: 100%;
+  object-fit: cover;
+}
+
+
+
+
